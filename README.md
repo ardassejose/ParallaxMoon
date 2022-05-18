@@ -3,6 +3,8 @@
 <h2>Introdução</h2>
 <p>Nesse repositório pude estudar um pouco melhor o efeito Parallax. Ficou super interessante o resultado e todos podem ver</p>
 
+<a href="https://ardassejose.github.io/ParallaxMoon/"><h2>Clique aqui para acessar o resultado</h2></a>
+
 <h2>Tecnologias utilizadas</h2>
   <ul>
     <li>HTML</li>
